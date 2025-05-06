@@ -28,7 +28,15 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-/* write all the steps invloved */
+step1: Type the program in Quartus software.
+
+step2: Compile and run the program.
+
+step3: Generate the RTL schematic and save the logic diagram.
+
+step4: Create nodes for inputs and outputs to generate the timing diagram.
+
+step5: For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
